@@ -1,0 +1,10 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_TextBox/do_build.xml
+/doExt_do_TextBox/do_TextBox.zip
+/doExt_do_TextBox/libs/docore.jar
